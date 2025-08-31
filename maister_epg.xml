@@ -1,0 +1,1429 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="SkyShowtime 1 HD (T)">
+    <display-name lang="no">SkyShowtime 1 HD (T)</display-name>
+    <icon src="https://images.ctfassets.net/989y85n5kcxs/7MUksJ06AsPo6c5mv9epTE/da6c50023cbaff7401da188fd7252d72/SkySho1_Logo_Black.png" />
+    <url>http://www.viasat.no</url>
+  </channel>
+  <channel id="SkyShowtime 2 HD (T)">
+    <display-name lang="no">SkyShowtime 2 HD (T)</display-name>
+    <icon src="https://images.ctfassets.net/989y85n5kcxs/4JmdUGwnqinssYuyKjp5W0/57deed94a6c6666f8b001522d9487141/SkySho2_Logo_Black.png" />
+    <url>http://www.viasat.no</url>
+  </channel>
+  <programme start="20250831040300 +0200" stop="20250831042500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Dora og vennene: Til byen!</title>
+    <desc lang="no">Fra 2015. Dora hjelper en modig, men bortkommen snømann med å holde løftet sitt om å alltid returnere til vennen sin.(n)</desc>
+  </programme>
+  <programme start="20250831042500 +0200" stop="20250831045000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Dora og vennene: Til byen!</title>
+    <desc lang="no">Fra 2015. Dora, Alana og alle vennene planlegger en stor lunsjfest på biblioteket.(n)</desc>
+  </programme>
+  <programme start="20250831045000 +0200" stop="20250831063500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Kajillionaire</title>
+    <desc lang="no">Fra 2020. En familie av svindlere lurer og stjeler hver gang, men når de sjarmerer en fremmed til å bli med dem, blir hele verden snudd på hodet.(n)</desc>
+  </programme>
+  <programme start="20250831063500 +0200" stop="20250831072000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Italia 90: Four Weeks that Changed the World</title>
+    <desc lang="no">Fra 2022. Arrangører sliter med å forberede arenaer i tide. Lagene må bevise sin dyktighet og integritet.(n)</desc>
+  </programme>
+  <programme start="20250831072000 +0200" stop="20250831080500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Italia 90: Four Weeks that Changed the World</title>
+    <desc lang="no">Fra 2022. Lag og fans over hele verden forvandles av radikale politiske endringer etter den kalde krigen.(n)</desc>
+  </programme>
+  <programme start="20250831080500 +0200" stop="20250831085000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Italia 90: Four Weeks that Changed the World</title>
+    <desc lang="no">Fra 2022. De intense semifinale- og finalekampene endrer fotballhistorien for alltid.(n)</desc>
+  </programme>
+  <programme start="20250831085000 +0200" stop="20250831092000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Frasier</title>
+    <desc lang="no">Fra 2023. Frasier Crane vender tilbake til Boston for å møte det neste kapittelet i livet sitt med nye utfordringer å ta fatt på.(n)</desc>
+  </programme>
+  <programme start="20250831092000 +0200" stop="20250831095000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Frasier</title>
+    <desc lang="no">Fra 2023. Frasier Crane vender tilbake til Boston for å møte det neste kapittelet i livet sitt med nye utfordringer å ta fatt på.(n)</desc>
+  </programme>
+  <programme start="20250831095000 +0200" stop="20250831103500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">SkyMed</title>
+    <desc lang="no">Fra 2022. Nowak overanstrenger seg, som får drastiske konsekvenser. Bodie sliter med en uventet sannhet.(n)</desc>
+  </programme>
+  <programme start="20250831103500 +0200" stop="20250831112500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">SkyMed</title>
+    <desc lang="no">Fra 2022. En snøstorm fanger teamet med personen de minst ønsker å bli sittende fast med.(n)</desc>
+  </programme>
+  <programme start="20250831112500 +0200" stop="20250831130000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Hooking Up</title>
+    <desc lang="no">Fra 2020. Darla skriver en kontroversiell spalte i et livsstilsmagasin, frem til sexavhengigheten hennes går helt over styr og hun mister jobben.(n)</desc>
+  </programme>
+  <programme start="20250831130000 +0200" stop="20250831142500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Enid</title>
+    <desc lang="no">Fra 2009. Barnebokforfatter Enid Blyton strever med å balansere karrieren med rollen som kone og mor.(n)</desc>
+  </programme>
+  <programme start="20250831142500 +0200" stop="20250831161500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Den ville roboten</title>
+    <desc lang="no">Fra 2024. Skipsbrudden på en øde øy, lærer en robot ved navn Roz å tilpasse seg sine nye omgivelser og utvikler et foreldrebånd med en foreldreløs gås.(n)</desc>
+  </programme>
+  <programme start="20250831161500 +0200" stop="20250831175000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Dean</title>
+    <desc lang="no">Fra 2016. En illustratør forelsker seg i en kvinne mens han prøver å hindre faren i å brenne ned familiens hjem etter at kona dør.(n)</desc>
+  </programme>
+  <programme start="20250831175000 +0200" stop="20250831182500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Feriestedet</title>
+    <desc lang="no">Fra 2022. En kjærlighetshistorie som går over flere generasjoner, forkledd som et ekte krimmysterium.(n)</desc>
+  </programme>
+  <programme start="20250831182500 +0200" stop="20250831190000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Feriestedet</title>
+    <desc lang="no">Fra 2022. Baltasar, Emma og Noah møter Illan Iberra og får vite mer om hans konfliktfylte bakgrunn.(n)</desc>
+  </programme>
+  <programme start="20250831190000 +0200" stop="20250831204000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Abigail</title>
+    <desc lang="no">Fra 2024. Mens de holder den 12 år gamle datteren til en mektig gangsterleder fanget, oppdager en gruppe kidnappere at hun faktisk er en blodtørstig vampyr.(n)</desc>
+  </programme>
+  <programme start="20250831204000 +0200" stop="20250831214000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">1923</title>
+    <desc lang="no">Fra 2025. Vinteren byr på nye utfordringer for Dutton-ene; Spencer og Alexandra går hver til sitt.(n)</desc>
+  </programme>
+  <programme start="20250831214000 +0200" stop="20250831223500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">1923</title>
+    <desc lang="no">Fra 2025. Ting blir omstridte ved tinghuset. Moder natur gjør sin tilstedeværelse kjent.(n)</desc>
+  </programme>
+  <programme start="20250831223500 +0200" stop="20250831232500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">David Frost versus</title>
+    <desc lang="no">Fra 2025. David og The Beatles dukker opp i 60-tallets London, fortroppene i en kulturell revolusjon.(n)</desc>
+  </programme>
+  <programme start="20250831232500 +0200" stop="20250901000000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Feriestedet</title>
+    <desc lang="no">Fra 2022. En kjærlighetshistorie som går over flere generasjoner, forkledd som et ekte krimmysterium.(n)</desc>
+  </programme>
+  <programme start="20250901000000 +0200" stop="20250901003500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Feriestedet</title>
+    <desc lang="no">Fra 2022. Baltasar, Emma og Noah møter Illan Iberra og får vite mer om hans konfliktfylte bakgrunn.(n)</desc>
+  </programme>
+  <programme start="20250901003500 +0200" stop="20250901010500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Lust</title>
+    <desc lang="no">Fra 2022. Anettes erotiske drøm påvirker gruppens dynamikk. Martina og Harald tenner gnisten igjen.(n)</desc>
+  </programme>
+  <programme start="20250901010500 +0200" stop="20250901013500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Lust</title>
+    <desc lang="no">Fra 2022. Anette og Andres krydrer opp livet på soverommet. Martina presenterer romanen sin til et forlag.(n)</desc>
+  </programme>
+  <programme start="20250901013500 +0200" stop="20250901020500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Lust</title>
+    <desc lang="no">Fra 2022. Med forskningsstudien nesten ferdig, må Anette finne løsninger til funnene sine.(n)</desc>
+  </programme>
+  <programme start="20250901020500 +0200" stop="20250901023500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Megahjerne</title>
+    <desc lang="no">Fra 2010. Den slu superskurken Megamind dreper ved et uhell sin idealistiske erkefiende, og skaper i stedet en ny fiende som prøver å ødelegge verden.(n)</desc>
+  </programme>
+  <programme start="20250901023500 +0200" stop="20250901030500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Elskerne</title>
+    <desc lang="no">Fra 2023. Seamus vender tilbake til Belfast og er spent på å treffe Janet, men hun kommer med et overraskende forslag.(n)</desc>
+  </programme>
+  <programme start="20250901030500 +0200" stop="20250901033500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Elskerne</title>
+    <desc lang="no">Fra 2023. Seamus får et overraskende besøk, noe som fører til en pinefull natt for ham og Janet.(n)</desc>
+  </programme>
+  <programme start="20250901033500 +0200" stop="20250901040000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">MTV Cribs International</title>
+    <desc lang="no">Fra 2021. Charity Shops hjem i Nottingham, eiendomsmogul Jason Oppenheims herskapshus.(n)</desc>
+  </programme>
+  <programme start="20250901040000 +0200" stop="20250901042000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">PAW Patrol</title>
+    <desc lang="no">Fra 2014. Et mystisk spøkelse forårsaker kaos om natten. Valpene og Chase sitter på vakt for å fange det.(n)</desc>
+  </programme>
+  <programme start="20250901042000 +0200" stop="20250901044000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">PAW Patrol</title>
+    <desc lang="no">Fra 2014. PAW Patrol rykker ut for å redde Jake når han blir strandet i isødet, men en ny valp dukker også opp for å gi en hjelpende pote: den modige  Everest!(n)</desc>
+  </programme>
+  <programme start="20250901044000 +0200" stop="20250901050500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Svampebob Firkant</title>
+    <desc lang="no">Fra 2019. Plankton sin store bøtte med lokkemat løper løpsk. SvampeBob tar sin første pause noen gang på jobb.(n)</desc>
+  </programme>
+  <programme start="20250901050500 +0200" stop="20250901053000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Svampebob Firkant</title>
+    <desc lang="no">Fra 2020. Krabbe lar SvampeBob være sjef på Krusty Krab. Patrick jobber hos Goofy Goober.(n)</desc>
+  </programme>
+  <programme start="20250901053000 +0200" stop="20250901055500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Dora og vennene: Til byen!</title>
+    <desc lang="no">Fra 2014. Når valpe prinsessen blir borte, må Dora og vennene hennes ordne opp i en feide for å finne henne.(n)</desc>
+  </programme>
+  <programme start="20250901055500 +0200" stop="20250901062000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">The Office</title>
+    <desc lang="no">Fra 2008. Dwight og Jim blir sjokkerte når de får resultatene av den årlige kundeundersøkelsen. Pam og Jim tilbringer hvert ledige sekund sammen via Bluetooth.(n)</desc>
+  </programme>
+  <programme start="20250901062000 +0200" stop="20250901064500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">The Office</title>
+    <desc lang="no">Fra 2008. Andy og Oscar knytter bånd når Michael tar dem med på en forretningsreise til Canada.(n)</desc>
+  </programme>
+  <programme start="20250901064500 +0200" stop="20250901073000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Heroes</title>
+    <desc lang="no">Fra 2007. Faren til Hiro har vanskelig for å forstå sønnens nye kall i livet. Claire søker svar.(n)</desc>
+  </programme>
+  <programme start="20250901073000 +0200" stop="20250901081500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Heroes</title>
+    <desc lang="no">Fra 2007. Claire får vite sannheten om sin biologiske far. Hiro drar tilbake til Las Vegas.(n)</desc>
+  </programme>
+  <programme start="20250901081500 +0200" stop="20250901090000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Suits</title>
+    <desc lang="no">Fra 2013. Jessicas nye partnerskap med Darby blir satt på prøve når han tildeler Harvey en høyprofilert klient.(n)</desc>
+  </programme>
+  <programme start="20250901090000 +0200" stop="20250901102500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Enid</title>
+    <desc lang="no">Fra 2009. Barnebokforfatter Enid Blyton strever med å balansere karrieren med rollen som kone og mor.(n)</desc>
+  </programme>
+  <programme start="20250901102500 +0200" stop="20250901114000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">The Tattooist’s Son: Journey to Auschwitz</title>
+    <desc lang="no">Fra 2025. Gary Sokolov, enebarn av tatovøren i Auschwitz, besøker konsentrasjonsleiren.(n)</desc>
+  </programme>
+  <programme start="20250901114000 +0200" stop="20250901122500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Heroes</title>
+    <desc lang="no">Fra 2007. Vanlige mennesker over hele verden får superkrefter, og de må samarbeide for å redde verden.(n)</desc>
+  </programme>
+  <programme start="20250901122500 +0200" stop="20250901131000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Heroes</title>
+    <desc lang="no">Fra 2007. Matt og Ted Sprague søker svar, så de tar Bennet og familien som gisler.(n)</desc>
+  </programme>
+  <programme start="20250901131000 +0200" stop="20250901145000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Forced Out</title>
+    <desc lang="no">Fra 2023. To homofile veteraner prøver å avskaffe forbudet mot at homofile blir med i det britiske militæret.(n)</desc>
+  </programme>
+  <programme start="20250901145000 +0200" stop="20250901163500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Winter Spring Summer or Fall</title>
+    <desc lang="no">Fra 2024. Remi stiller spørsmål ved karriereveien hennes når hun møter Barnes, som lever for øyeblikket.(n)</desc>
+  </programme>
+  <programme start="20250901163500 +0200" stop="20250901170000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">The Office</title>
+    <desc lang="no">Fra 2008. Ingen vil innrømme at de har griset til mikroen. Michael får dårlig nytt om en ansatt.(n)</desc>
+  </programme>
+  <programme start="20250901170000 +0200" stop="20250901172500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">The Office</title>
+    <desc lang="no">Fra 2008. Oscar oppdager et budsjettoverskudd som teamet må fordele innen slutten av dagen.(n)</desc>
+  </programme>
+  <programme start="20250901172500 +0200" stop="20250901181500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Star Trek: Discovery</title>
+    <desc lang="no">Fra 2024. Ti år før Kirk, Spock og stjerneskipet Enterprise.(n)</desc>
+  </programme>
+  <programme start="20250901181500 +0200" stop="20250901190000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Suits</title>
+    <desc lang="no">Fra 2013. Harvey og Jessica slår seg sammen for å ta en gammel erkefiende som kompliserer saken deres.(n)</desc>
+  </programme>
+  <programme start="20250901190000 +0200" stop="20250901200000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Langer</title>
+    <desc lang="no">Fra 2025. Piotr Langer, en ung, ambisiøs forretningsmann og unnvikende seriemorder, befinner seg involvert i et farlig spill med en mystisk kvinne.(n)</desc>
+  </programme>
+  <programme start="20250901200000 +0200" stop="20250901213000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Self Reliance</title>
+    <desc lang="no">Fra 2023. En mann blir tilbudt 1 million dollar for å unnslippe leiemordere i 30 dager i et realityshow.(n)</desc>
+  </programme>
+  <programme start="20250901213000 +0200" stop="20250901221000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Mayor of Kingstown</title>
+    <desc lang="no">Fra 2023. Mike og Milo diskuterer en mulig handel. Bunny gjør et frekt trekk og har et krav til Mike.(n)</desc>
+  </programme>
+  <programme start="20250901221000 +0200" stop="20250901225500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Mayor of Kingstown</title>
+    <desc lang="no">Fra 2023. Konflikt bryter ut i gatene i Kingstown. Mike og Bunny kommer til et avgjørende øyeblikk.(n)</desc>
+  </programme>
+  <programme start="20250901225500 +0200" stop="20250901234500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Star Trek: Discovery</title>
+    <desc lang="no">Fra 2024. Ti år før Kirk, Spock og stjerneskipet Enterprise.(n)</desc>
+  </programme>
+  <programme start="20250901234500 +0200" stop="20250902003000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Suits</title>
+    <desc lang="no">Fra 2013. Harvey og Jessica slår seg sammen for å ta en gammel erkefiende som kompliserer saken deres.(n)</desc>
+  </programme>
+  <programme start="20250902003000 +0200" stop="20250902005500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Frasier</title>
+    <desc lang="no">Fra 2023. Frasier Crane vender tilbake til Boston for å møte det neste kapittelet i livet sitt med nye utfordringer å ta fatt på.(n)</desc>
+  </programme>
+  <programme start="20250902005500 +0200" stop="20250902012500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Frasier</title>
+    <desc lang="no">Fra 2023. Frasier Crane vender tilbake til Boston for å møte det neste kapittelet i livet sitt med nye utfordringer å ta fatt på.(n)</desc>
+  </programme>
+  <programme start="20250902012500 +0200" stop="20250902020000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Elskerne</title>
+    <desc lang="no">Fra 2023. Janet reiser til London for å være sammen med Seamus og oppdager at hun ikke er den eneste som har hemmeligheter.(n)</desc>
+  </programme>
+  <programme start="20250902020000 +0200" stop="20250902024000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Elskerne</title>
+    <desc lang="no">Fra 2023. Janet og Seamus må innse sannheten om fortiden deres for å finne en vei tilbake til hverandre.(n)</desc>
+  </programme>
+  <programme start="20250902024000 +0200" stop="20250902031000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">The Office</title>
+    <desc lang="no">Fra 2008. Andy og Oscar knytter bånd når Michael tar dem med på en forretningsreise til Canada.(n)</desc>
+  </programme>
+  <programme start="20250902031000 +0200" stop="20250902033500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">The Office</title>
+    <desc lang="no">Fra 2008. Ingen vil innrømme at de har griset til mikroen. Michael får dårlig nytt om en ansatt.(n)</desc>
+  </programme>
+  <programme start="20250902033500 +0200" stop="20250902040000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">The Office</title>
+    <desc lang="no">Fra 2008. Oscar oppdager et budsjettoverskudd som teamet må fordele innen slutten av dagen.(n)</desc>
+  </programme>
+  <programme start="20250902040000 +0200" stop="20250902042000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">PAW Patrol</title>
+    <desc lang="no">Fra 2014. Paw Patrol drar til jungelen for å møte Carlos , den 10 år gamle brevvennen til Ryder .(n)</desc>
+  </programme>
+  <programme start="20250902042000 +0200" stop="20250902044000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">PAW Patrol</title>
+    <desc lang="no">Fra 2014. En vinterstorm skaper trøbbel for hele Adventure Bukta. // Ordfører Goodway utfordrer ordfører Humdinger's basketballag til en kamp.(n)</desc>
+  </programme>
+  <programme start="20250902044000 +0200" stop="20250902050500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Svampebob Firkant</title>
+    <desc lang="no">Fra 2021. Plankton blir et spøkelse for å kunne stjele den hemmelige oppskriften; Herr Krabbe gjør seg klar for date.(n)</desc>
+  </programme>
+  <programme start="20250902050500 +0200" stop="20250902053000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Svampebob Firkant</title>
+    <desc lang="no">Fra 2021. SvampeBob passer på huset til herr Krabbe. Bleke blir tvunge til å dele rom med Patrick.(n)</desc>
+  </programme>
+  <programme start="20250902053000 +0200" stop="20250902055500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Dora og vennene: Til byen!</title>
+    <desc lang="no">Fra 2015. Dora og vennene setter sammen et popband for en veldedighetskonsert, men gitarstrengene hennes ryker.(n)</desc>
+  </programme>
+  <programme start="20250902055500 +0200" stop="20250902062000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">The Office</title>
+    <desc lang="no">Fra 2008. Ingen vil innrømme at de har griset til mikroen. Michael får dårlig nytt om en ansatt.(n)</desc>
+  </programme>
+  <programme start="20250902062000 +0200" stop="20250902064500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">The Office</title>
+    <desc lang="no">Fra 2008. Oscar oppdager et budsjettoverskudd som teamet må fordele innen slutten av dagen.(n)</desc>
+  </programme>
+  <programme start="20250902064500 +0200" stop="20250902073000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Heroes</title>
+    <desc lang="no">Fra 2007. Vanlige mennesker over hele verden får superkrefter, og de må samarbeide for å redde verden.(n)</desc>
+  </programme>
+  <programme start="20250902073000 +0200" stop="20250902081500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Heroes</title>
+    <desc lang="no">Fra 2007. Matt og Ted Sprague søker svar, så de tar Bennet og familien som gisler.(n)</desc>
+  </programme>
+  <programme start="20250902081500 +0200" stop="20250902090000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Suits</title>
+    <desc lang="no">Fra 2013. Harvey og Jessica slår seg sammen for å ta en gammel erkefiende som kompliserer saken deres.(n)</desc>
+  </programme>
+  <programme start="20250902090000 +0200" stop="20250902110000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Taking Woodstock</title>
+    <desc lang="no">Fra 2009. En ung mann setter utilsiktet i gang en musikkfestival i 1969 som skulle prege en hel generasjon.(n)</desc>
+  </programme>
+  <programme start="20250902110000 +0200" stop="20250902115000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Boyzone: Life, Death &amp; Boybands</title>
+    <desc lang="no">Fra 2025. Bitre rifter truer med å splitte bandet ettersom personlig usikkerhet blir utnyttet.(n)</desc>
+  </programme>
+  <programme start="20250902115000 +0200" stop="20250902124000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Heroes</title>
+    <desc lang="no">Fra 2007. Det er snart valg, og Nathan har et urovekkende møte med Linderman.(n)</desc>
+  </programme>
+  <programme start="20250902124000 +0200" stop="20250902132500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Heroes</title>
+    <desc lang="no">Fra 2007. Sylar herjer videre. Nathan tenker over det han fikk vite av Linderman.(n)</desc>
+  </programme>
+  <programme start="20250902132500 +0200" stop="20250902145000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Gabon: Wildlife Warriors</title>
+    <desc lang="no">Fra 2024. Gabon: Wildlife Warriors.(n)</desc>
+  </programme>
+  <programme start="20250902145000 +0200" stop="20250902163000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Tell Them You Love Me</title>
+    <desc lang="no">Fra 2023. En utforskning av hvordan sosiale omstendigheter former distinkte perspektiver på en forbrytelse.(n)</desc>
+  </programme>
+  <programme start="20250902163000 +0200" stop="20250902165500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">The Office</title>
+    <desc lang="no">Fra 2008. Phyllis' Marokko-inspirerte fest går i vasken når Merediths hår tar fyr. Samtidig er Dwight dominerende på leketøysmarkedet med Årets julegave.(n)</desc>
+  </programme>
+  <programme start="20250902165500 +0200" stop="20250902172000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">The Office</title>
+    <desc lang="no">Fra 2009. Andy vet fremdeles ingenting om Angelas affære. Michael er nervøs før et bedriftsmøte.(n)</desc>
+  </programme>
+  <programme start="20250902172000 +0200" stop="20250902181500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Star Trek: Discovery</title>
+    <desc lang="no">Fra 2024. Ti år før Kirk, Spock og stjerneskipet Enterprise.(n)</desc>
+  </programme>
+  <programme start="20250902181500 +0200" stop="20250902190000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Suits</title>
+    <desc lang="no">Fra 2013. Harvey og Louis forsvarer Ava Hessington både i forretningsmessige og private saker, og det blir et styr da Katrina prøver å arbeide sammen med dem.(n)</desc>
+  </programme>
+  <programme start="20250902190000 +0200" stop="20250902195000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Poker Face</title>
+    <desc lang="no">Fra 2025. Velsignet med en ekstraordinær evne til å avgjøre når noen lyver, etterforsker Charlie Cale forbrytelser hun møter på veien.(n)</desc>
+  </programme>
+  <programme start="20250902195000 +0200" stop="20250902215000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">The Bikeriders</title>
+    <desc lang="no">Fra 2023. Etter et tilfeldig møte på en lokal bar blir sta Kathy sterkt tiltrukket av Benny, det nyeste medlemmet i Vandals, en motorsykkelklubb i Midtvesten.(n)</desc>
+  </programme>
+  <programme start="20250902215000 +0200" stop="20250902225000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Langer</title>
+    <desc lang="no">Fra 2025. Piotr Langer, en ung, ambisiøs forretningsmann og unnvikende seriemorder, befinner seg involvert i et farlig spill med en mystisk kvinne.(n)</desc>
+  </programme>
+  <programme start="20250902225000 +0200" stop="20250902234500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Star Trek: Discovery</title>
+    <desc lang="no">Fra 2024. Ti år før Kirk, Spock og stjerneskipet Enterprise.(n)</desc>
+  </programme>
+  <programme start="20250902234500 +0200" stop="20250903003000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Suits</title>
+    <desc lang="no">Fra 2013. Harvey og Louis forsvarer Ava Hessington både i forretningsmessige og private saker, og det blir et styr da Katrina prøver å arbeide sammen med dem.(n)</desc>
+  </programme>
+  <programme start="20250903003000 +0200" stop="20250903011500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Utmark</title>
+    <desc lang="no">Fra 2021. Bilzi innleder en affære med kona til Finn. Kari har vanskelig for å venne seg til livet på bygda.(n)</desc>
+  </programme>
+  <programme start="20250903011500 +0200" stop="20250903024500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Self Reliance</title>
+    <desc lang="no">Fra 2023. En mann blir tilbudt 1 million dollar for å unnslippe leiemordere i 30 dager i et realityshow.(n)</desc>
+  </programme>
+  <programme start="20250903024500 +0200" stop="20250903031000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">The Office</title>
+    <desc lang="no">Fra 2008. Oscar oppdager et budsjettoverskudd som teamet må fordele innen slutten av dagen.(n)</desc>
+  </programme>
+  <programme start="20250903031000 +0200" stop="20250903033500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">The Office</title>
+    <desc lang="no">Fra 2008. Phyllis' Marokko-inspirerte fest går i vasken når Merediths hår tar fyr. Samtidig er Dwight dominerende på leketøysmarkedet med Årets julegave.(n)</desc>
+  </programme>
+  <programme start="20250903033500 +0200" stop="20250903040000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">The Office</title>
+    <desc lang="no">Fra 2009. Andy vet fremdeles ingenting om Angelas affære. Michael er nervøs før et bedriftsmøte.(n)</desc>
+  </programme>
+  <programme start="20250903040000 +0200" stop="20250903042000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">PAW Patrol</title>
+    <desc lang="no">Fra 2014. Patruljen må redde stunt piloten Ace. Valpene må redde bonden Yumis låve.(n)</desc>
+  </programme>
+  <programme start="20250903042000 +0200" stop="20250903044000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">PAW Patrol</title>
+    <desc lang="no">Fra 2015. Det er dagen for Adventure Bukta's Talentshow ! Ordfører Goodway er spent, men redd det ikke vil være nok fremføringer.(n)</desc>
+  </programme>
+  <programme start="20250903044000 +0200" stop="20250903050500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Svampebob Firkant</title>
+    <desc lang="no">Fra 2021. SvampeBob finner en søt, men ubeleilig kompanjong. Ingen kan gjemme seg fra hikken.(n)</desc>
+  </programme>
+  <programme start="20250903050500 +0200" stop="20250903053000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Svampebob Firkant</title>
+    <desc lang="no">Fra 2019. Jentegjengen tar med Perle til en hytte i skogen for en helg med tull og fanteri. // Herr Krabbe har en hemmelig forkjærlighet for...noe overraskende.(n)</desc>
+  </programme>
+  <programme start="20250903053000 +0200" stop="20250903055500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Dora og vennene: Til byen!</title>
+    <desc lang="no">Fra 2015. Dora og vennene må få tilbake Kates bok fra skurken Antonio el Aventurero.(n)</desc>
+  </programme>
+  <programme start="20250903055500 +0200" stop="20250903062000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">The Office</title>
+    <desc lang="no">Fra 2008. Phyllis' Marokko-inspirerte fest går i vasken når Merediths hår tar fyr. Samtidig er Dwight dominerende på leketøysmarkedet med Årets julegave.(n)</desc>
+  </programme>
+  <programme start="20250903062000 +0200" stop="20250903064500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">The Office</title>
+    <desc lang="no">Fra 2009. Andy vet fremdeles ingenting om Angelas affære. Michael er nervøs før et bedriftsmøte.(n)</desc>
+  </programme>
+  <programme start="20250903064500 +0200" stop="20250903073000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Heroes</title>
+    <desc lang="no">Fra 2007. Det er snart valg, og Nathan har et urovekkende møte med Linderman.(n)</desc>
+  </programme>
+  <programme start="20250903073000 +0200" stop="20250903081500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Heroes</title>
+    <desc lang="no">Fra 2007. Sylar herjer videre. Nathan tenker over det han fikk vite av Linderman.(n)</desc>
+  </programme>
+  <programme start="20250903081500 +0200" stop="20250903090000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Suits</title>
+    <desc lang="no">Fra 2013. Harvey og Louis forsvarer Ava Hessington både i forretningsmessige og private saker, og det blir et styr da Katrina prøver å arbeide sammen med dem.(n)</desc>
+  </programme>
+  <programme start="20250903090000 +0200" stop="20250903102500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Gabon: Wildlife Warriors</title>
+    <desc lang="no">Fra 2024. Gabon: Wildlife Warriors.(n)</desc>
+  </programme>
+  <programme start="20250903102500 +0200" stop="20250903120500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Hooking Up</title>
+    <desc lang="no">Fra 2020. Darla skriver en kontroversiell spalte i et livsstilsmagasin, frem til sexavhengigheten hennes går helt over styr og hun mister jobben.(n)</desc>
+  </programme>
+  <programme start="20250903120500 +0200" stop="20250903125000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Heroes</title>
+    <desc lang="no">Fra 2007. Hiro ser en fremtid der mennesker med krefter blir ansett som kriminelle elementer.(n)</desc>
+  </programme>
+  <programme start="20250903125000 +0200" stop="20250903133500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Heroes</title>
+    <desc lang="no">Fra 2007. Hiro og Ando blir satt på prøve. Nathan tar overraskende grep for å sikre seg seieren.(n)</desc>
+  </programme>
+  <programme start="20250903133500 +0200" stop="20250903150000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Enid</title>
+    <desc lang="no">Fra 2009. Barnebokforfatter Enid Blyton strever med å balansere karrieren med rollen som kone og mor.(n)</desc>
+  </programme>
+  <programme start="20250903150000 +0200" stop="20250903163000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Swimming For Gold</title>
+    <desc lang="no">Fra 2020. Etter en skade legger en elite-svømmer drømmene sine til side for å hjelpe et herrelag i svømming.(n)</desc>
+  </programme>
+  <programme start="20250903163000 +0200" stop="20250903165500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">The Office</title>
+    <desc lang="no">Fra 2009. Michael og Dwight går undercover; kontoret vier en hel dag til å debattere om Hilary Swank er sexy.(n)</desc>
+  </programme>
+  <programme start="20250903165500 +0200" stop="20250903172000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">The Office</title>
+    <desc lang="no">Fra 2009. Stanley får hjerteinfarkt på grunn av Dwights brannøvelse. Dwight prøver å gjøre opp for seg overfor de stressede ansatte på kontoret.(n)</desc>
+  </programme>
+  <programme start="20250903172000 +0200" stop="20250903181500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Star Trek: Discovery</title>
+    <desc lang="no">Fra 2024. Ti år før Kirk, Spock og stjerneskipet Enterprise.(n)</desc>
+  </programme>
+  <programme start="20250903181500 +0200" stop="20250903190000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Suits</title>
+    <desc lang="no">Fra 2013. En halvstudert ung mann får kremjobben når han imponerer en viktig advokat med sin knivskarpe hjerne, selv om han ikke har juridisk utdannelse.(n)</desc>
+  </programme>
+  <programme start="20250903190000 +0200" stop="20250903194500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">David Frost versus</title>
+    <desc lang="no">Fra 2025. Davids første brennende møte med Muhammed som skal føre til et livslangt vennskap.(n)</desc>
+  </programme>
+  <programme start="20250903194500 +0200" stop="20250903212500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Rewriting Trump</title>
+    <desc lang="no">Fra 2025. Følg Trumps sjokkerende comeback fra et eksil i Mar-a-Lago, Florida, tilbake til Det hvite hus.(n)</desc>
+  </programme>
+  <programme start="20250903212500 +0200" stop="20250903221500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Poker Face</title>
+    <desc lang="no">Fra 2025. Velsignet med en ekstraordinær evne til å avgjøre når noen lyver, etterforsker Charlie Cale forbrytelser hun møter på veien.(n)</desc>
+  </programme>
+  <programme start="20250903221500 +0200" stop="20250903231000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Star Trek: Discovery</title>
+    <desc lang="no">Fra 2024. Ti år før Kirk, Spock og stjerneskipet Enterprise.(n)</desc>
+  </programme>
+  <programme start="20250903231000 +0200" stop="20250903235500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Suits</title>
+    <desc lang="no">Fra 2013. En halvstudert ung mann får kremjobben når han imponerer en viktig advokat med sin knivskarpe hjerne, selv om han ikke har juridisk utdannelse.(n)</desc>
+  </programme>
+  <programme start="20250903235500 +0200" stop="20250904004000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Utmark</title>
+    <desc lang="no">Fra 2021. Bilzi sørger sånn at det blir for mye for Siri. Marin avslører farens mørke hemmelighet.(n)</desc>
+  </programme>
+  <programme start="20250904004000 +0200" stop="20250904024000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">The Bikeriders</title>
+    <desc lang="no">Fra 2023. Etter et tilfeldig møte på en lokal bar blir sta Kathy sterkt tiltrukket av Benny, det nyeste medlemmet i Vandals, en motorsykkelklubb i Midtvesten.(n)</desc>
+  </programme>
+  <programme start="20250904024000 +0200" stop="20250904031000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">The Office</title>
+    <desc lang="no">Fra 2009. Andy vet fremdeles ingenting om Angelas affære. Michael er nervøs før et bedriftsmøte.(n)</desc>
+  </programme>
+  <programme start="20250904031000 +0200" stop="20250904033500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">The Office</title>
+    <desc lang="no">Fra 2009. Michael og Dwight går undercover; kontoret vier en hel dag til å debattere om Hilary Swank er sexy.(n)</desc>
+  </programme>
+  <programme start="20250904033500 +0200" stop="20250904040000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">The Office</title>
+    <desc lang="no">Fra 2009. Stanley får hjerteinfarkt på grunn av Dwights brannøvelse. Dwight prøver å gjøre opp for seg overfor de stressede ansatte på kontoret.(n)</desc>
+  </programme>
+  <programme start="20250904040000 +0200" stop="20250904042000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">PAW Patrol</title>
+    <desc lang="no">Fra 2015. Når de andre valpene er på fallskjermtrening må Marshall få en gruppe med kattunger tilbake helt alene.(n)</desc>
+  </programme>
+  <programme start="20250904042000 +0200" stop="20250904044000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">PAW Patrol</title>
+    <desc lang="no">Fra 2015. PAW Patrol drar ut i jungelen for å hjelpe vennen Carlos med å finne papegøyen Mateo som har blitt borte.(n)</desc>
+  </programme>
+  <programme start="20250904044000 +0200" stop="20250904050500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Svampebob Firkant</title>
+    <desc lang="no">Fra 2020. SvampeBob og Patrick lager en dyrehage av bobler. Krusty Krab må i karantene.(n)</desc>
+  </programme>
+  <programme start="20250904050500 +0200" stop="20250904053000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Svampebob Firkant</title>
+    <desc lang="no">Fra 2021. Plankton ansetter en lærling. Patrick får et raserianfall hver hang han hører en ringeklokke.(n)</desc>
+  </programme>
+  <programme start="20250904053000 +0200" stop="20250904055500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Dora og vennene: Til byen!</title>
+    <desc lang="no">Fra 2015. Naiya får en blomst til å gro opp i skyene, hvor hun, Dora og Pablo besøker en magisk verden med gnomer.(n)</desc>
+  </programme>
+  <programme start="20250904055500 +0200" stop="20250904062000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">The Office</title>
+    <desc lang="no">Fra 2009. Michael og Dwight går undercover; kontoret vier en hel dag til å debattere om Hilary Swank er sexy.(n)</desc>
+  </programme>
+  <programme start="20250904062000 +0200" stop="20250904064500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">The Office</title>
+    <desc lang="no">Fra 2009. Stanley får hjerteinfarkt på grunn av Dwights brannøvelse. Dwight prøver å gjøre opp for seg overfor de stressede ansatte på kontoret.(n)</desc>
+  </programme>
+  <programme start="20250904064500 +0200" stop="20250904073000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Heroes</title>
+    <desc lang="no">Fra 2007. Hiro ser en fremtid der mennesker med krefter blir ansett som kriminelle elementer.(n)</desc>
+  </programme>
+  <programme start="20250904073000 +0200" stop="20250904081500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Heroes</title>
+    <desc lang="no">Fra 2007. Hiro og Ando blir satt på prøve. Nathan tar overraskende grep for å sikre seg seieren.(n)</desc>
+  </programme>
+  <programme start="20250904081500 +0200" stop="20250904090000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Suits</title>
+    <desc lang="no">Fra 2013. En halvstudert ung mann får kremjobben når han imponerer en viktig advokat med sin knivskarpe hjerne, selv om han ikke har juridisk utdannelse.(n)</desc>
+  </programme>
+  <programme start="20250904090000 +0200" stop="20250904104000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Forced Out</title>
+    <desc lang="no">Fra 2023. To homofile veteraner prøver å avskaffe forbudet mot at homofile blir med i det britiske militæret.(n)</desc>
+  </programme>
+  <programme start="20250904104000 +0200" stop="20250904112000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">David Frost versus</title>
+    <desc lang="no">Fra 2025. David og The Beatles dukker opp i 60-tallets London, fortroppene i en kulturell revolusjon.(n)</desc>
+  </programme>
+  <programme start="20250904112000 +0200" stop="20250904120500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Heroes</title>
+    <desc lang="no">Fra 2007. Nathan tenker på hva seieren koster. Hiro får vite sannheten om familien.(n)</desc>
+  </programme>
+  <programme start="20250904120500 +0200" stop="20250904125000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Heroes</title>
+    <desc lang="no">Fra 2007. Heltene risikerer alt idet konflikten topper seg på Kirby Plaza.(n)</desc>
+  </programme>
+  <programme start="20250904125000 +0200" stop="20250904144500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Taking Woodstock</title>
+    <desc lang="no">Fra 2009. En ung mann setter utilsiktet i gang en musikkfestival i 1969 som skulle prege en hel generasjon.(n)</desc>
+  </programme>
+  <programme start="20250904144500 +0200" stop="20250904162500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">The Boss Baby</title>
+    <desc lang="no">Fra 2017. En gutt befinner seg i sentrum for et forretningskomplott takket være sin nye lillebror – som bare snakker business når foreldrene ikke er i nærheten.(n)</desc>
+  </programme>
+  <programme start="20250904162500 +0200" stop="20250904165000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">The Office</title>
+    <desc lang="no">Fra 2009. Michael lar kontoret gjøre narr av ham. Jim har en følelsesladet samtale med faren til Pam.(n)</desc>
+  </programme>
+  <programme start="20250904165000 +0200" stop="20250904171500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">The Office</title>
+    <desc lang="no">Fra 2009. Michael og Pam fortsetter turneen til Dunder Mifflin-kontorene og Michael tar lærdom av besøket i Utica.(n)</desc>
+  </programme>
+  <programme start="20250904171500 +0200" stop="20250904181500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Star Trek: Discovery</title>
+    <desc lang="no">Fra 2024. Ti år før Kirk, Spock og stjerneskipet Enterprise.(n)</desc>
+  </programme>
+  <programme start="20250904181500 +0200" stop="20250904190000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Suits</title>
+    <desc lang="no">Fra 2013. En halvstudert ung mann får kremjobben når han imponerer en viktig advokat med sin knivskarpe hjerne, selv om han ikke har juridisk utdannelse.(n)</desc>
+  </programme>
+  <programme start="20250904190000 +0200" stop="20250904200000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">1923</title>
+    <desc lang="no">Fra 2025. Alexandra får problemer. Fader Renaud og marskalk Kent haler innpå Teonna.(n)</desc>
+  </programme>
+  <programme start="20250904200000 +0200" stop="20250904210000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">1923</title>
+    <desc lang="no">Fra 2025. Whitfield får støtte for sin nye forretningssatsing. Spencer får et uventet møte med sheriffen i Ft. Worth.(n)</desc>
+  </programme>
+  <programme start="20250904210000 +0200" stop="20250904224000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Abigail</title>
+    <desc lang="no">Fra 2024. Mens de holder den 12 år gamle datteren til en mektig gangsterleder fanget, oppdager en gruppe kidnappere at hun faktisk er en blodtørstig vampyr.(n)</desc>
+  </programme>
+  <programme start="20250904224000 +0200" stop="20250904232500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">David Frost versus</title>
+    <desc lang="no">Fra 2025. David og The Beatles dukker opp i 60-tallets London, fortroppene i en kulturell revolusjon.(n)</desc>
+  </programme>
+  <programme start="20250904232500 +0200" stop="20250905002500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Star Trek: Discovery</title>
+    <desc lang="no">Fra 2024. Ti år før Kirk, Spock og stjerneskipet Enterprise.(n)</desc>
+  </programme>
+  <programme start="20250905002500 +0200" stop="20250905011000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Suits</title>
+    <desc lang="no">Fra 2013. En halvstudert ung mann får kremjobben når han imponerer en viktig advokat med sin knivskarpe hjerne, selv om han ikke har juridisk utdannelse.(n)</desc>
+  </programme>
+  <programme start="20250905011000 +0200" stop="20250905015500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Utmark</title>
+    <desc lang="no">Fra 2021. Feiden mellom Bilzi og Finn blir stadig verre. Marin ber Kari om hjelp.(n)</desc>
+  </programme>
+  <programme start="20250905015500 +0200" stop="20250905031000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">The Tattooist’s Son: Journey to Auschwitz</title>
+    <desc lang="no">Fra 2025. Gary Sokolov, enebarn av tatovøren i Auschwitz, besøker konsentrasjonsleiren.(n)</desc>
+  </programme>
+  <programme start="20250905031000 +0200" stop="20250905033500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">The Office</title>
+    <desc lang="no">Fra 2009. Michael lar kontoret gjøre narr av ham. Jim har en følelsesladet samtale med faren til Pam.(n)</desc>
+  </programme>
+  <programme start="20250905033500 +0200" stop="20250905040000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">The Office</title>
+    <desc lang="no">Fra 2009. Michael og Pam fortsetter turneen til Dunder Mifflin-kontorene og Michael tar lærdom av besøket i Utica.(n)</desc>
+  </programme>
+  <programme start="20250905040000 +0200" stop="20250905042000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">PAW Patrol</title>
+    <desc lang="no">Fra 2015. Når Valpene og Cap'N Turbot er ute under den veldig sjeldne Magiske Hav Månen, begynner magiske ting å skje.(n)</desc>
+  </programme>
+  <programme start="20250905042000 +0200" stop="20250905044000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">PAW Patrol</title>
+    <desc lang="no">Fra 2015. Valpenes kjøretur over savannen blir til en redningsaksjon og en familiegjenforening for en elefantfamilie.(n)</desc>
+  </programme>
+  <programme start="20250905044000 +0200" stop="20250905050500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Svampebob Firkant</title>
+    <desc lang="no">Fra 2021. Boble Bass unngår å betale regningen sin. Krabbe får sine ansatte til å kokke for frøken Puff.(n)</desc>
+  </programme>
+  <programme start="20250905050500 +0200" stop="20250905053000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Svampebob Firkant</title>
+    <desc lang="no">Fra 2020. SvampeBob og Patrick kommer i klammeri med direktøren for Hanskeland.(n)</desc>
+  </programme>
+  <programme start="20250905053000 +0200" stop="20250905055500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Dora og vennene: Til byen!</title>
+    <desc lang="no">Fra 2015. Gjengen må overbevise kokosnøttkongen om å returnere kokosnøtten til Pablos bursdagskake.(n)</desc>
+  </programme>
+  <programme start="20250905055500 +0200" stop="20250905062000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">The Office</title>
+    <desc lang="no">Fra 2009. Michael lar kontoret gjøre narr av ham. Jim har en følelsesladet samtale med faren til Pam.(n)</desc>
+  </programme>
+  <programme start="20250905062000 +0200" stop="20250905064500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">The Office</title>
+    <desc lang="no">Fra 2009. Michael og Pam fortsetter turneen til Dunder Mifflin-kontorene og Michael tar lærdom av besøket i Utica.(n)</desc>
+  </programme>
+  <programme start="20250905064500 +0200" stop="20250905073000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Heroes</title>
+    <desc lang="no">Fra 2007. Nathan tenker på hva seieren koster. Hiro får vite sannheten om familien.(n)</desc>
+  </programme>
+  <programme start="20250905073000 +0200" stop="20250905081500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Heroes</title>
+    <desc lang="no">Fra 2007. Heltene risikerer alt idet konflikten topper seg på Kirby Plaza.(n)</desc>
+  </programme>
+  <programme start="20250905081500 +0200" stop="20250905090000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Suits</title>
+    <desc lang="no">Fra 2013. En halvstudert ung mann får kremjobben når han imponerer en viktig advokat med sin knivskarpe hjerne, selv om han ikke har juridisk utdannelse.(n)</desc>
+  </programme>
+  <programme start="20250905090000 +0200" stop="20250905094500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">SkyMed</title>
+    <desc lang="no">Fra 2022. Nowak overanstrenger seg, som får drastiske konsekvenser. Bodie sliter med en uventet sannhet.(n)</desc>
+  </programme>
+  <programme start="20250905094500 +0200" stop="20250905103500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">SkyMed</title>
+    <desc lang="no">Fra 2022. En snøstorm fanger teamet med personen de minst ønsker å bli sittende fast med.(n)</desc>
+  </programme>
+  <programme start="20250905103500 +0200" stop="20250905121500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Tell Them You Love Me</title>
+    <desc lang="no">Fra 2023. En utforskning av hvordan sosiale omstendigheter former distinkte perspektiver på en forbrytelse.(n)</desc>
+  </programme>
+  <programme start="20250905121500 +0200" stop="20250905131000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Heroes</title>
+    <desc lang="no">Fra 2007. Skjebnen til heltene endrer seg etter møtet med Sylar, og en ny kraft jakter på supermenneskene.(n)</desc>
+  </programme>
+  <programme start="20250905131000 +0200" stop="20250905135500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Heroes</title>
+    <desc lang="no">Fra 2007. Matt får hjelp fra uventet hold idet angrepene på heltene fortsetter. Claires hemmelighet kan bli avslørt.(n)</desc>
+  </programme>
+  <programme start="20250905135500 +0200" stop="20250905154500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Problemista</title>
+    <desc lang="no">Fra 2023. Forfatter og regissør Julio Torres byr på et surrealistisk eventyr gjennom de svikefulle verdenene i New York City og amerikansk immigrasjon.(n)</desc>
+  </programme>
+  <programme start="20250905154500 +0200" stop="20250905162500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Boyzone: Life, Death &amp; Boybands</title>
+    <desc lang="no">Fra 2025. Bitre rifter truer med å splitte bandet ettersom personlig usikkerhet blir utnyttet.(n)</desc>
+  </programme>
+  <programme start="20250905162500 +0200" stop="20250905165000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">The Office</title>
+    <desc lang="no">Fra 2009. Michael kommer til Hollys avdeling; Kelly får en uvanlig kontorfest; Angelas kamera vekker oppstyr.(n)</desc>
+  </programme>
+  <programme start="20250905165000 +0200" stop="20250905171500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">The Office</title>
+    <desc lang="no">Fra 2009. Michael arrangerer en fest for de som er alene på valentinsdagen, i et håp om å se igjen kvinnen han møtte tidligere på dagen.(n)</desc>
+  </programme>
+  <programme start="20250905171500 +0200" stop="20250905181500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Star Trek: Discovery</title>
+    <desc lang="no">Fra 2024. Ti år før Kirk, Spock og stjerneskipet Enterprise.(n)</desc>
+  </programme>
+  <programme start="20250905181500 +0200" stop="20250905190000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Suits</title>
+    <desc lang="no">Fra 2013. En halvstudert ung mann får kremjobben når han imponerer en viktig advokat med sin knivskarpe hjerne, selv om han ikke har juridisk utdannelse.(n)</desc>
+  </programme>
+  <programme start="20250905190000 +0200" stop="20250905195500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Mayor of Kingstown</title>
+    <desc lang="no">Fra 2024. Tragedien treffer Kingstown. Den russiske mafiaen etablerer seg i byen.(n)</desc>
+  </programme>
+  <programme start="20250905195500 +0200" stop="20250905204000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Mayor of Kingstown</title>
+    <desc lang="no">Fra 2024. Anchor Bay får en ny innsatt. Mike etterforsker dødsfall både innenfor og utenfor fengselet.(n)</desc>
+  </programme>
+  <programme start="20250905204000 +0200" stop="20250905222000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Half Brothers</title>
+    <desc lang="no">Fra 2020. Etter at de får vite om hverandre, legger to vidt forskjellige halvbrødre ut på en reise for å finne veien faren tok fra Mexico til USA.(n)</desc>
+  </programme>
+  <programme start="20250905222000 +0200" stop="20250905232000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">1923</title>
+    <desc lang="no">Fra 2025. Alexandra får problemer. Fader Renaud og marskalk Kent haler innpå Teonna.(n)</desc>
+  </programme>
+  <programme start="20250905232000 +0200" stop="20250906002000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">1923</title>
+    <desc lang="no">Fra 2025. Whitfield får støtte for sin nye forretningssatsing. Spencer får et uventet møte med sheriffen i Ft. Worth.(n)</desc>
+  </programme>
+  <programme start="20250906002000 +0200" stop="20250906012000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Star Trek: Discovery</title>
+    <desc lang="no">Fra 2024. Ti år før Kirk, Spock og stjerneskipet Enterprise.(n)</desc>
+  </programme>
+  <programme start="20250906012000 +0200" stop="20250906020500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Suits</title>
+    <desc lang="no">Fra 2013. En halvstudert ung mann får kremjobben når han imponerer en viktig advokat med sin knivskarpe hjerne, selv om han ikke har juridisk utdannelse.(n)</desc>
+  </programme>
+  <programme start="20250906020500 +0200" stop="20250906025000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Utmark</title>
+    <desc lang="no">Fra 2021. Finn har det svært tungt. Siri prøver å hjelpe Marin med å forsones med faren.(n)</desc>
+  </programme>
+  <programme start="20250906025000 +0200" stop="20250906031000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">The Office</title>
+    <desc lang="no">Fra 2009. Michael og Pam fortsetter turneen til Dunder Mifflin-kontorene og Michael tar lærdom av besøket i Utica.(n)</desc>
+  </programme>
+  <programme start="20250906031000 +0200" stop="20250906033500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">The Office</title>
+    <desc lang="no">Fra 2009. Michael kommer til Hollys avdeling; Kelly får en uvanlig kontorfest; Angelas kamera vekker oppstyr.(n)</desc>
+  </programme>
+  <programme start="20250906033500 +0200" stop="20250906040000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">The Office</title>
+    <desc lang="no">Fra 2009. Michael arrangerer en fest for de som er alene på valentinsdagen, i et håp om å se igjen kvinnen han møtte tidligere på dagen.(n)</desc>
+  </programme>
+  <programme start="20250906040000 +0200" stop="20250906042500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Dora og vennene: Til byen!</title>
+    <desc lang="no">Fra 2014. Når valpe prinsessen blir borte, må Dora og vennene hennes ordne opp i en feide for å finne henne.(n)</desc>
+  </programme>
+  <programme start="20250906042500 +0200" stop="20250906045000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Dora og vennene: Til byen!</title>
+    <desc lang="no">Fra 2015. Dora og vennene setter sammen et popband for en veldedighetskonsert, men gitarstrengene hennes ryker.(n)</desc>
+  </programme>
+  <programme start="20250906045000 +0200" stop="20250906051500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Dora og vennene: Til byen!</title>
+    <desc lang="no">Fra 2015. Dora og vennene må få tilbake Kates bok fra skurken Antonio el Aventurero.(n)</desc>
+  </programme>
+  <programme start="20250906051500 +0200" stop="20250906064000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Enid</title>
+    <desc lang="no">Fra 2009. Barnebokforfatter Enid Blyton strever med å balansere karrieren med rollen som kone og mor.(n)</desc>
+  </programme>
+  <programme start="20250906064000 +0200" stop="20250906081000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Den avskyelige snømannen</title>
+    <desc lang="no">Fra 2019. Familieeventyr om Yi, som finner en lys levende yeti på taket og drar ut på eventyr for å hjelpe det magiske vesenet tilbake til familien.(n)</desc>
+  </programme>
+  <programme start="20250906081000 +0200" stop="20250906093500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Tigerens læregutt</title>
+    <desc lang="no">Fra 2024. En gutt trener med mytiske dyrekrigere for å stå imot en ond kraft som truer menneskeheten.(n)</desc>
+  </programme>
+  <programme start="20250906093500 +0200" stop="20250906112500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Sonic the Hedgehog 3</title>
+    <desc lang="no">Fra 2024. Sonic, Knuckles og Tails gjenforenes for å kjempe mot en ny og mektig motstander, Shadow.(n)</desc>
+  </programme>
+  <programme start="20250906112500 +0200" stop="20250906132000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Taking Woodstock</title>
+    <desc lang="no">Fra 2009. En ung mann setter utilsiktet i gang en musikkfestival i 1969 som skulle prege en hel generasjon.(n)</desc>
+  </programme>
+  <programme start="20250906132000 +0200" stop="20250906151000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Don't Tell Mom the Babysitter's Dead</title>
+    <desc lang="no">Fra 2024. En tenåring tar vare på søsknene sine hele sommeren etter at deres aldrende barnevakt dør.(n)</desc>
+  </programme>
+  <programme start="20250906151000 +0200" stop="20250906163500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Gabon: Wildlife Warriors</title>
+    <desc lang="no">Fra 2024. Gabon: Wildlife Warriors.(n)</desc>
+  </programme>
+  <programme start="20250906163500 +0200" stop="20250906170500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Frasier</title>
+    <desc lang="no">Fra 2023. Frasier blir med Alan og Olivia mens de søker medlemskap i et prestisjefylt universitetssamfunn.(n)</desc>
+  </programme>
+  <programme start="20250906170500 +0200" stop="20250906173000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Frasier</title>
+    <desc lang="no">Fra 2023. Når Eve setter Frasier og Freddy på blind dater, begynner de å snu seg mot hverandre.(n)</desc>
+  </programme>
+  <programme start="20250906173000 +0200" stop="20250906181500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">SkyMed</title>
+    <desc lang="no">Fra 2022. Hayley sliter med å ta en viktig avgjørelse. Bodie sliter etter sønnens tidlige fødsel.(n)</desc>
+  </programme>
+  <programme start="20250906181500 +0200" stop="20250906190000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">SkyMed</title>
+    <desc lang="no">Fra 2023. SkyMed vil utvide territoriumet for deres medisinske tjenester, og skaper uorden.(n)</desc>
+  </programme>
+  <programme start="20250906190000 +0200" stop="20250906212000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">The King of Staten Island</title>
+    <desc lang="no">Fra 2020. En komedie om kjærlighet, sorg og gleder på Staten Island i New York, med Saturday Night Live-stjernen Pete Davidson i hovedrollen.(n)</desc>
+  </programme>
+  <programme start="20250906212000 +0200" stop="20250906221500 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Mayor of Kingstown</title>
+    <desc lang="no">Fra 2024. Tragedien treffer Kingstown. Den russiske mafiaen etablerer seg i byen.(n)</desc>
+  </programme>
+  <programme start="20250906221500 +0200" stop="20250906230000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Mayor of Kingstown</title>
+    <desc lang="no">Fra 2024. Anchor Bay får en ny innsatt. Mike etterforsker dødsfall både innenfor og utenfor fengselet.(n)</desc>
+  </programme>
+  <programme start="20250906230000 +0200" stop="20250906235000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Poker Face</title>
+    <desc lang="no">Fra 2025. Velsignet med en ekstraordinær evne til å avgjøre når noen lyver, etterforsker Charlie Cale forbrytelser hun møter på veien.(n)</desc>
+  </programme>
+  <programme start="20250906235000 +0200" stop="20250907005000 +0200" channel="SkyShowtime 1 HD (T)">
+    <title lang="no">Langer</title>
+    <desc lang="no">Fra 2025. Piotr Langer, en ung, ambisiøs forretningsmann og unnvikende seriemorder, befinner seg involvert i et farlig spill med en mystisk kvinne.(n)</desc>
+  </programme>
+  <programme start="20250831040000 +0200" stop="20250831052500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Career Opportunities</title>
+    <desc lang="no">Fra 1991. To potensielle innbruddstyver kommer i trøbbel med en nattevakt og en vakker butikktyv i et angivelig tomt varehus.(n)</desc>
+  </programme>
+  <programme start="20250831052500 +0200" stop="20250831054700 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Svampebob Firkant</title>
+    <desc lang="no">Fra 2019. SvampeBob og Patrick drar på sightseeing til Overflateland, mens resten av Bikinibunnen forbereder en overraskelsesfest for SvampeBob!(n)</desc>
+  </programme>
+  <programme start="20250831054700 +0200" stop="20250831072000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">De fem legendene</title>
+    <desc lang="no">Fra 2012. Jack Frost samarbeider med julenissen, tannfeen og andre for å bekjempe en ondsinnet ånd som forsøker å ødelegge barns uskyldige fantasi.(n)</desc>
+  </programme>
+  <programme start="20250831072000 +0200" stop="20250831085500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Megahjerne</title>
+    <desc lang="no">Fra 2010. Den slu superskurken Megamind dreper ved et uhell sin idealistiske erkefiende, og skaper i stedet en ny fiende som prøver å ødelegge verden.(n)</desc>
+  </programme>
+  <programme start="20250831085500 +0200" stop="20250831103500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Dolittle</title>
+    <desc lang="no">Fra 2020. Når kona dør, trekker Dolittle seg tilbake på godset sitt, men tvinges til å dra ut på en eventyrlig reise når dronningen blir alvorlig syk.(n)</desc>
+  </programme>
+  <programme start="20250831103500 +0200" stop="20250831122000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Transformers One</title>
+    <desc lang="no">Fra 2024. Den ufortalte opprinnelseshistorien om Optimus Prime og Megatron, som en gang var våpenbrødre.(n)</desc>
+  </programme>
+  <programme start="20250831122000 +0200" stop="20250831125500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Knuckles</title>
+    <desc lang="no">Fra 2024. Knuckles sliter med å tilpasse seg sitt nye liv i den lille byen Green Hills.(n)</desc>
+  </programme>
+  <programme start="20250831125500 +0200" stop="20250831133000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Knuckles</title>
+    <desc lang="no">Fra 2024. Wade planlegger en fantastisk redningsaksjon mens Knuckles konfronterer de som holder ham fanget.(n)</desc>
+  </programme>
+  <programme start="20250831133000 +0200" stop="20250831153000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Identity Thief</title>
+    <desc lang="no">Fra 2013. En mann fra Denver sporer opp Florida-kvinnen som stjal identiteten hans, finansierte en luksuriøs livsstil og ødela kredittverdigheten hans.(n)</desc>
+  </programme>
+  <programme start="20250831153000 +0200" stop="20250831170000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Apollo 11</title>
+    <desc lang="no">Fra 2019. Kritikerrost dokumentar om den legendariske romferden der Neil Armstrong ble det første mennesket på månen.(n)</desc>
+  </programme>
+  <programme start="20250831170000 +0200" stop="20250831190000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Tilbake til fremtiden 3</title>
+    <desc lang="no">Fra 1990. Marty McFly og Doc Brown reiser tilbake til Det ville vesten i denne avsluttende delen av den populære tidsreisetrilogien.(n)</desc>
+  </programme>
+  <programme start="20250831190000 +0200" stop="20250831194500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Chicago P.D.</title>
+    <desc lang="no">Fra 2014. En farlig kartelleder er på frifot, og Etterforskningsenheten må stole på at Pulpo kan spore ham opp.(n)</desc>
+  </programme>
+  <programme start="20250831194500 +0200" stop="20250831203000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Chicago P.D.</title>
+    <desc lang="no">Fra 2014. Voight og Platt åpner opp om sine liv når Antonios liv står fare. Jin blir avslørt mens han roter på Voights data og legger skylden på en syndebukk.(n)</desc>
+  </programme>
+  <programme start="20250831203000 +0200" stop="20250831225500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Fast &amp; Furious: Hobbs &amp; Shaw</title>
+    <desc lang="no">Fra 2019. Eksplosiv action med Hobbs og Shaw, de kranglende tøffingene fra \"Fast &amp; Furious\"-serien, som nå må samarbeide om å redde verden.(n)</desc>
+  </programme>
+  <programme start="20250831225500 +0200" stop="20250901002000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">The League of Gentlemen's Apocalypse</title>
+    <desc lang="no">Fra 2005. Landsbyboere i en fiktiv verden må konfrontere sine virkelige skapere for å redde hjemmet sitt.(n)</desc>
+  </programme>
+  <programme start="20250901002000 +0200" stop="20250901022000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Tilbake til fremtiden 3</title>
+    <desc lang="no">Fra 1990. Marty McFly og Doc Brown reiser tilbake til Det ville vesten i denne avsluttende delen av den populære tidsreisetrilogien.(n)</desc>
+  </programme>
+  <programme start="20250901022000 +0200" stop="20250901040000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">The 7.39</title>
+    <desc lang="no">Fra 2014. Etter å ha kjempet om et sete på morgentoget, utvikler to pendlere et vennskap.(n)</desc>
+  </programme>
+  <programme start="20250901040000 +0200" stop="20250901045000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Jersey Shore Family Vacation</title>
+    <desc lang="no">Fra 2023. Pauly D får smeltet kjøttbollene. Sammis fødselsdag får Vinny til å føle seg litt salt. Da det banker på døren, står alle på tærne.(n)</desc>
+  </programme>
+  <programme start="20250901045000 +0200" stop="20250901054000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Jersey Shore Family Vacation</title>
+    <desc lang="no">Fra 2023. En overraskelsesgjest dukker opp i Poconos. Romkameratene drar til Atlantic City.(n)</desc>
+  </programme>
+  <programme start="20250901054000 +0200" stop="20250901060500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Henry Danger</title>
+    <desc lang="no">Fra 2018. Mannskapet krangler med Captain Man om hvem som har det kuleste rommet for å bekjempe kriminalitet.(n)</desc>
+  </programme>
+  <programme start="20250901060500 +0200" stop="20250901063000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Henry Danger</title>
+    <desc lang="no">Fra 2018. Når gjengen blir venner med Bigfoot i skogen, prøver Kid Danger og Captain Man å hjelpe ham med å bli kvitt en ivrig jeger som prøver å fange ham.(n)</desc>
+  </programme>
+  <programme start="20250901063000 +0200" stop="20250901065500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Henry Danger</title>
+    <desc lang="no">Fra 2018. Schwoz finner opp en støvsuger for å hjelpe Henry med å vaske huset, men den suger, uheldigvis, opp Charlotte. Når familen hører Charlotte.(n)</desc>
+  </programme>
+  <programme start="20250901065500 +0200" stop="20250901083500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Heldiggrisen Babe: I storbyen</title>
+    <desc lang="no">Fra 1998. Konkurs truer gården.(n)</desc>
+  </programme>
+  <programme start="20250901083500 +0200" stop="20250901092000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Monk</title>
+    <desc lang="no">Fra 2003. Når avisleveringspersonen hans blir myrdet, søker Monk avisen etter ledetråder.(n)</desc>
+  </programme>
+  <programme start="20250901092000 +0200" stop="20250901100500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Monk</title>
+    <desc lang="no">Fra 2003. Monks fremmedgjorte eldre bror ber ham hjelpe til med å etterforske et drap.(n)</desc>
+  </programme>
+  <programme start="20250901100500 +0200" stop="20250901105500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Jersey Shore Family Vacation</title>
+    <desc lang="no">Fra 2023. Pauly D får smeltet kjøttbollene. Sammis fødselsdag får Vinny til å føle seg litt salt. Da det banker på døren, står alle på tærne.(n)</desc>
+  </programme>
+  <programme start="20250901105500 +0200" stop="20250901114500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Jersey Shore Family Vacation</title>
+    <desc lang="no">Fra 2023. En overraskelsesgjest dukker opp i Poconos. Romkameratene drar til Atlantic City.(n)</desc>
+  </programme>
+  <programme start="20250901114500 +0200" stop="20250901135000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">EDtv</title>
+    <desc lang="no">Fra 1999. Ed, en videobutikkmedarbeider som føler at han ikke har noe å tape, samtykker i å være stjernen i et nytt reality–basert TV–program.(n)</desc>
+  </programme>
+  <programme start="20250901135000 +0200" stop="20250901141500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">MTV Cribs</title>
+    <desc lang="no">Fra 2023. Debbie Mazar viser oss rundt i sin toscanske villa fra 1400-tallet, og vi får se Eddie Huang kule bolig i LA.(n)</desc>
+  </programme>
+  <programme start="20250901141500 +0200" stop="20250901150000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Monk</title>
+    <desc lang="no">Fra 2003. Monk mistenker en TV-stjerne for å ha drept sin ekskone, men skuespilleren har et solid alibi.(n)</desc>
+  </programme>
+  <programme start="20250901150000 +0200" stop="20250901154500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Monk</title>
+    <desc lang="no">Fra 2003. En jusstudent tilbyr å hjelpe Monk hvis han vil hjelpe henne med å finne bestemorens kidnappere.(n)</desc>
+  </programme>
+  <programme start="20250901154500 +0200" stop="20250901173000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">The Truth About Charlie</title>
+    <desc lang="no">Fra 2002. En ung kvinne i Paris er i ferd med å skille seg fra mannen i det hun oppdager at han har gått bort og at alle pengene deres er borte.(n)</desc>
+  </programme>
+  <programme start="20250901173000 +0200" stop="20250901190000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Otto Baxter: Not A F**king Horror Story</title>
+    <desc lang="no">Fra 2023. Otto Baxter, en filmskaper med Downs syndrom, lager en selvbiografisk skrekkfilm.(n)</desc>
+  </programme>
+  <programme start="20250901190000 +0200" stop="20250901211500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">We Steal Secrets: The Story of Wikileaks</title>
+    <desc lang="no">Fra 2013. Den tidligere Irak-soldaten sitter fengslet i USA, anklaget for å være hovedkilden til Wikileaks-avsløringene.(n)</desc>
+  </programme>
+  <programme start="20250901211500 +0200" stop="20250901221000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Ray Donovan</title>
+    <desc lang="no">Fra 2013. Mickey samarbeider med Van for å skaffe bevis mot Sean Walker.(n)</desc>
+  </programme>
+  <programme start="20250901221000 +0200" stop="20250901230500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Dexter</title>
+    <desc lang="no">Fra 2013. Dexter må velge mellom å flykte fra landet med Hannah og Harrison, eller og ta Saxon ut en gang for alle.(n)</desc>
+  </programme>
+  <programme start="20250901230500 +0200" stop="20250902000000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Dexter</title>
+    <desc lang="no">Fra 2013. Dexter står overfor en umulig oppgave. En orkan nærmer seg Miami.(n)</desc>
+  </programme>
+  <programme start="20250902000000 +0200" stop="20250902020500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Let Him Go</title>
+    <desc lang="no">Fra 2020. Etter at sønnen dør og svigerdatteren gifter seg med en voldelig mann, drar et aldrende par ut for å redde barnebarnet fra hans mektige nye familie.(n)</desc>
+  </programme>
+  <programme start="20250902020500 +0200" stop="20250902033500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Otto Baxter: Not A F**king Horror Story</title>
+    <desc lang="no">Fra 2023. Otto Baxter, en filmskaper med Downs syndrom, lager en selvbiografisk skrekkfilm.(n)</desc>
+  </programme>
+  <programme start="20250902033500 +0200" stop="20250902040000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Svampebob Firkant</title>
+    <desc lang="no">Fra 2019. Plankton sin store bøtte med lokkemat løper løpsk. SvampeBob tar sin første pause noen gang på jobb.(n)</desc>
+  </programme>
+  <programme start="20250902040000 +0200" stop="20250902044500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">House</title>
+    <desc lang="no">Fra 2004. En ung lærer kollapser i klasserommet. House og teamet hans mistenker at hun kan ha en svulst, og at hun bare har en uke igjen å leve.(n)</desc>
+  </programme>
+  <programme start="20250902044500 +0200" stop="20250902053000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">House</title>
+    <desc lang="no">Fra 2004. En 16-årig student som begynner å hallusinere, avslører at han har fått et slag mot hodet og må gjennomgå en risikofylt hjerneoperasjon.(n)</desc>
+  </programme>
+  <programme start="20250902053000 +0200" stop="20250902055500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Henry Danger</title>
+    <desc lang="no">Fra 2018. Når Charlotte har en drøm om at hun nesten kysser Kid Danger, prøver hun aktivt å unngå Henry i redsel for at hun har sanndrømt.(n)</desc>
+  </programme>
+  <programme start="20250902055500 +0200" stop="20250902062000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Henry Danger</title>
+    <desc lang="no">Fra 2018. Gjengen finner tunneler som kan lede de overalt i byen, men blir konfrontert av noen som allerede bor der.(n)</desc>
+  </programme>
+  <programme start="20250902062000 +0200" stop="20250902064500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Henry Danger</title>
+    <desc lang="no">Fra 2018. Ting tar litt av, når Schwoz installerer et nytt operativsystem på datamaskinen som er designet til å oppdage og eliminere alle trusler mot Solsyn.(n)</desc>
+  </programme>
+  <programme start="20250902064500 +0200" stop="20250902082500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Croods</title>
+    <desc lang="no">Fra 2013. I reisen gjennom frodige landskaper møter familien Crood fargerike kryp og figurer du alltid vil huske, og fremtiden deres blir forandret for alltid.(n)</desc>
+  </programme>
+  <programme start="20250902082500 +0200" stop="20250902091000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Monk</title>
+    <desc lang="no">Fra 2003. Monk mistenker en TV-stjerne for å ha drept sin ekskone, men skuespilleren har et solid alibi.(n)</desc>
+  </programme>
+  <programme start="20250902091000 +0200" stop="20250902095500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Monk</title>
+    <desc lang="no">Fra 2003. En jusstudent tilbyr å hjelpe Monk hvis han vil hjelpe henne med å finne bestemorens kidnappere.(n)</desc>
+  </programme>
+  <programme start="20250902095500 +0200" stop="20250902104000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">House</title>
+    <desc lang="no">Fra 2004. En ung lærer kollapser i klasserommet. House og teamet hans mistenker at hun kan ha en svulst, og at hun bare har en uke igjen å leve.(n)</desc>
+  </programme>
+  <programme start="20250902104000 +0200" stop="20250902112500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">House</title>
+    <desc lang="no">Fra 2004. En 16-årig student som begynner å hallusinere, avslører at han har fått et slag mot hodet og må gjennomgå en risikofylt hjerneoperasjon.(n)</desc>
+  </programme>
+  <programme start="20250902112500 +0200" stop="20250902120000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Couples Therapy</title>
+    <desc lang="no">Fra 2019. Denne kritikerroste dokumentarserien tar deg med på innsiden av Dr. Orna Guralniks samlivsklinikk. Ekte mennesker.(n)</desc>
+  </programme>
+  <programme start="20250902120000 +0200" stop="20250902123500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Couples Therapy</title>
+    <desc lang="no">Fra 2019. Mau og Annie utforsker om de er kan være «seksuelt inkompatible». Evelyn klarer ikke stole på Alan.(n)</desc>
+  </programme>
+  <programme start="20250902123500 +0200" stop="20250902143500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Tilbake til fremtiden</title>
+    <desc lang="no">Fra 1985. After he accidentally drives a DeLorean time machine from 1985 to 1955, Marty McFly races the clock to ensure his future parents fall in love.(n)</desc>
+  </programme>
+  <programme start="20250902143500 +0200" stop="20250902152000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Monk</title>
+    <desc lang="no">Fra 2003. Stottlemeyers kone er i en ulykke etter at en fagforeningskonflikt går galt. Monk undersøker.(n)</desc>
+  </programme>
+  <programme start="20250902152000 +0200" stop="20250902160500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Monk</title>
+    <desc lang="no">Fra 2003. Monk og Sharona later som de er et ektepar for å fange en svindler.(n)</desc>
+  </programme>
+  <programme start="20250902160500 +0200" stop="20250902164000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Knuckles</title>
+    <desc lang="no">Fra 2024. Knuckles sliter med å tilpasse seg sitt nye liv i den lille byen Green Hills.(n)</desc>
+  </programme>
+  <programme start="20250902164000 +0200" stop="20250902170500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Knuckles</title>
+    <desc lang="no">Fra 2024. Wade planlegger en fantastisk redningsaksjon mens Knuckles konfronterer de som holder ham fanget.(n)</desc>
+  </programme>
+  <programme start="20250902170500 +0200" stop="20250902190000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Drømmenes verden</title>
+    <desc lang="no">Fra 1998. En mann prøver å finne sin kone i livet etter døden slik at de kan dele evigheten sammen.(n)</desc>
+  </programme>
+  <programme start="20250902190000 +0200" stop="20250902204000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Born to Be Blue</title>
+    <desc lang="no">Fra 2015. På 1950-tallet var Chet Baker en av verdens mest kjente trompetister, kjent både som en pioner innen vestkystjazzen og et ikon for det kule.(n)</desc>
+  </programme>
+  <programme start="20250902204000 +0200" stop="20250902214000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Ray Donovan</title>
+    <desc lang="no">Fra 2013. Ray og familien drar til Fite Nite op Donovans Fight Club. I mellomtiden setter Rays plan med Sally igang.(n)</desc>
+  </programme>
+  <programme start="20250902214000 +0200" stop="20250902222500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">House</title>
+    <desc lang="no">Fra 2004. En ung lærer kollapser i klasserommet. House og teamet hans mistenker at hun kan ha en svulst, og at hun bare har en uke igjen å leve.(n)</desc>
+  </programme>
+  <programme start="20250902222500 +0200" stop="20250902231000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">House</title>
+    <desc lang="no">Fra 2004. En 16-årig student som begynner å hallusinere, avslører at han har fått et slag mot hodet og må gjennomgå en risikofylt hjerneoperasjon.(n)</desc>
+  </programme>
+  <programme start="20250902231000 +0200" stop="20250903000500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Hackerville</title>
+    <desc lang="no">Fra 2018. Nettkriminalitetspolitiet Lisa Metz sporer en tysk bankhacking tilbake til hjembyen hennes i Romania.(n)</desc>
+  </programme>
+  <programme start="20250903000500 +0200" stop="20250903005000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Chicago P.D.</title>
+    <desc lang="no">Fra 2022. Teamet kjemper for å finne en av sine egne, som er i alvorlig fare.(n)</desc>
+  </programme>
+  <programme start="20250903005000 +0200" stop="20250903032500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Fast &amp; Furious: Hobbs &amp; Shaw</title>
+    <desc lang="no">Fra 2019. Eksplosiv action med Hobbs og Shaw, de kranglende tøffingene fra \"Fast &amp; Furious\"-serien, som nå må samarbeide om å redde verden.(n)</desc>
+  </programme>
+  <programme start="20250903032500 +0200" stop="20250903040000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Knuckles</title>
+    <desc lang="no">Fra 2024. Knuckles sliter med å tilpasse seg sitt nye liv i den lille byen Green Hills.(n)</desc>
+  </programme>
+  <programme start="20250903040000 +0200" stop="20250903044500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">House</title>
+    <desc lang="no">Fra 2004. Når en collegestudent kollapser etter en omgang heftig sex med kjæresten, må House og teamet hans finne ut hvorfor.(n)</desc>
+  </programme>
+  <programme start="20250903044500 +0200" stop="20250903053000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">House</title>
+    <desc lang="no">Fra 2004. Når et virus sprer seg på sykehuset og seks spedbarn blir smittet, må House og teamet hans ta en beslutning som kan sette barnas liv på spill.(n)</desc>
+  </programme>
+  <programme start="20250903053000 +0200" stop="20250903055500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Henry Danger</title>
+    <desc lang="no">Fra 2018. Kid Danger og Captain Man prøver å fange mafiabossen Rob Moss ved å infiltrere datterens bursdagsselskap.(n)</desc>
+  </programme>
+  <programme start="20250903055500 +0200" stop="20250903062000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Henry Danger</title>
+    <desc lang="no">Fra 2018. Captain Man får en kul, ny massasjestol. Henry, Charlotte og Jasper konkurrerer om hvem som skal få den.(n)</desc>
+  </programme>
+  <programme start="20250903062000 +0200" stop="20250903064500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Henry Danger</title>
+    <desc lang="no">Fra 2018. Frankini legger en forbannelse over hele byen. Kid Danger må minne Captain Man om hvordan en helt oppfører seg.(n)</desc>
+  </programme>
+  <programme start="20250903064500 +0200" stop="20250903081000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Jetsons: The Movie</title>
+    <desc lang="no">Fra 1990. Jetson-familien drar ut i verdensrommet når George får en forfremmelse, bare for å oppdage at det er mer ved deres nye asteroidehjem enn de trodde.(n)</desc>
+  </programme>
+  <programme start="20250903081000 +0200" stop="20250903085500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Monk</title>
+    <desc lang="no">Fra 2003. Stottlemeyers kone er i en ulykke etter at en fagforeningskonflikt går galt. Monk undersøker.(n)</desc>
+  </programme>
+  <programme start="20250903085500 +0200" stop="20250903094000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Monk</title>
+    <desc lang="no">Fra 2003. Monk og Sharona later som de er et ektepar for å fange en svindler.(n)</desc>
+  </programme>
+  <programme start="20250903094000 +0200" stop="20250903102500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">House</title>
+    <desc lang="no">Fra 2004. Når en collegestudent kollapser etter en omgang heftig sex med kjæresten, må House og teamet hans finne ut hvorfor.(n)</desc>
+  </programme>
+  <programme start="20250903102500 +0200" stop="20250903111000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">House</title>
+    <desc lang="no">Fra 2004. Når et virus sprer seg på sykehuset og seks spedbarn blir smittet, må House og teamet hans ta en beslutning som kan sette barnas liv på spill.(n)</desc>
+  </programme>
+  <programme start="20250903111000 +0200" stop="20250903113500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Couples Therapy</title>
+    <desc lang="no">Fra 2019. Am. dokumentarserie fra 2019. En krangel om kos og oppmerksomhet i senga oppstår mellom Lauren og Sarah. Sesong 1, episode 3.(n)</desc>
+  </programme>
+  <programme start="20250903113500 +0200" stop="20250903120000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Couples Therapy</title>
+    <desc lang="no">Fra 2019. Am. dokumentarserie fra 2019. Alan avslører konsekvensene av farens sidesprang. Sarah vil at Lauren skal ta initiativ til sex. Sesong 1, episode 4.(n)</desc>
+  </programme>
+  <programme start="20250903120000 +0200" stop="20250903135000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Tilbake til fremtiden 2</title>
+    <desc lang="no">Fra 1989. Marty McFly og Doc legger ut på et oppdrag for å reparere rom-tidskontinuumet.(n)</desc>
+  </programme>
+  <programme start="20250903135000 +0200" stop="20250903143500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Monk</title>
+    <desc lang="no">Fra 2003. Monk etterforsker en fengslet mann som ble myrdet rett før hans planlagte henrettelse.(n)</desc>
+  </programme>
+  <programme start="20250903143500 +0200" stop="20250903152000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Monk</title>
+    <desc lang="no">Fra 2004. Monk er i New York City for å etterforske drapet på kona si, men vikles inn i en forvirrende trippeldrapssak som involverer en utenlandsk ambassadør.(n)</desc>
+  </programme>
+  <programme start="20250903152000 +0200" stop="20250903170500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">The Truth About Charlie</title>
+    <desc lang="no">Fra 2002. En ung kvinne i Paris er i ferd med å skille seg fra mannen i det hun oppdager at han har gått bort og at alle pengene deres er borte.(n)</desc>
+  </programme>
+  <programme start="20250903170500 +0200" stop="20250903190000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Identity Thief</title>
+    <desc lang="no">Fra 2013. En mann fra Denver sporer opp Florida-kvinnen som stjal identiteten hans, finansierte en luksuriøs livsstil og ødela kredittverdigheten hans.(n)</desc>
+  </programme>
+  <programme start="20250903190000 +0200" stop="20250903204500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Hva som skjer senere</title>
+    <desc lang="no">Fra 2023. Willa og Bill er tidligere elskere som møtes for første gang på mange år da de begge blir snødd inne på en lufthavn over natten.(n)</desc>
+  </programme>
+  <programme start="20250903204500 +0200" stop="20250903214500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Ray Donovan</title>
+    <desc lang="no">Fra 2013. Bunchy har et voldsomt møte med en person fra hans fortid. Ray kalles til Donovan Fite Club for å ta seg av en krise.(n)</desc>
+  </programme>
+  <programme start="20250903214500 +0200" stop="20250903223000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">House</title>
+    <desc lang="no">Fra 2004. Når en collegestudent kollapser etter en omgang heftig sex med kjæresten, må House og teamet hans finne ut hvorfor.(n)</desc>
+  </programme>
+  <programme start="20250903223000 +0200" stop="20250903231500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">House</title>
+    <desc lang="no">Fra 2004. Når et virus sprer seg på sykehuset og seks spedbarn blir smittet, må House og teamet hans ta en beslutning som kan sette barnas liv på spill.(n)</desc>
+  </programme>
+  <programme start="20250903231500 +0200" stop="20250904001000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Hackerville</title>
+    <desc lang="no">Fra 2018. Lisa etterforsker en lokal svindlers tenåringsbror som hun tror kan være hackeren.(n)</desc>
+  </programme>
+  <programme start="20250904001000 +0200" stop="20250904005500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Chicago P.D.</title>
+    <desc lang="no">Fra 2022. Når en ung mann blir skutt utenfor et bakeri, mistenker teamet eieren.(n)</desc>
+  </programme>
+  <programme start="20250904005500 +0200" stop="20250904031500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">We Steal Secrets: The Story of Wikileaks</title>
+    <desc lang="no">Fra 2013. Den tidligere Irak-soldaten sitter fengslet i USA, anklaget for å være hovedkilden til Wikileaks-avsløringene.(n)</desc>
+  </programme>
+  <programme start="20250904031500 +0200" stop="20250904034000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Knuckles</title>
+    <desc lang="no">Fra 2024. Wade planlegger en fantastisk redningsaksjon mens Knuckles konfronterer de som holder ham fanget.(n)</desc>
+  </programme>
+  <programme start="20250904034000 +0200" stop="20250904040000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Svampebob Firkant</title>
+    <desc lang="no">Fra 2020. Krabbe lar SvampeBob være sjef på Krusty Krab. Patrick jobber hos Goofy Goober.(n)</desc>
+  </programme>
+  <programme start="20250904040000 +0200" stop="20250904044500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">House</title>
+    <desc lang="no">Fra 2004. En nonne som oppsøker klinikken med hovne armer, utslett og blødninger i håndflatene, får teamet til å stille spørsmål om sine egne liv.(n)</desc>
+  </programme>
+  <programme start="20250904044500 +0200" stop="20250904053000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">House</title>
+    <desc lang="no">Fra 2004. House mistenker at en kvinne med schizofreni og livstruende blodpropper lyver om drikkingen sin, og sender teamet av gårde for å undersøke saken.(n)</desc>
+  </programme>
+  <programme start="20250904053000 +0200" stop="20250904055500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Henry Danger</title>
+    <desc lang="no">Fra 2018. Frankini legger en forbannelse over hele byen. Kid Danger må minne Captain Man om hvordan en helt oppfører seg.(n)</desc>
+  </programme>
+  <programme start="20250904055500 +0200" stop="20250904062000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Henry Danger</title>
+    <desc lang="no">Fra 2018. Pakker blir stjålet fra verandaene i Solsyn. Henry og Ray spaner for å ta tyven på fersken.(n)</desc>
+  </programme>
+  <programme start="20250904062000 +0200" stop="20250904064500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Henry Danger</title>
+    <desc lang="no">Fra 2018. Pakker blir stjålet fra verandaene i Solsyn. Henry og Ray spaner for å ta tyven på fersken.(n)</desc>
+  </programme>
+  <programme start="20250904064500 +0200" stop="20250904081500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Minions</title>
+    <desc lang="no">Fra 2015. De banangule, uforståelige lakeiene fra Grusomme meg har hovedrollene i denne forløperen som skildrer fortiden deres som skurketilbedere.(n)</desc>
+  </programme>
+  <programme start="20250904081500 +0200" stop="20250904090000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Monk</title>
+    <desc lang="no">Fra 2003. Monk etterforsker en fengslet mann som ble myrdet rett før hans planlagte henrettelse.(n)</desc>
+  </programme>
+  <programme start="20250904090000 +0200" stop="20250904094500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Monk</title>
+    <desc lang="no">Fra 2004. Monk er i New York City for å etterforske drapet på kona si, men vikles inn i en forvirrende trippeldrapssak som involverer en utenlandsk ambassadør.(n)</desc>
+  </programme>
+  <programme start="20250904094500 +0200" stop="20250904103000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">House</title>
+    <desc lang="no">Fra 2004. En nonne som oppsøker klinikken med hovne armer, utslett og blødninger i håndflatene, får teamet til å stille spørsmål om sine egne liv.(n)</desc>
+  </programme>
+  <programme start="20250904103000 +0200" stop="20250904111500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">House</title>
+    <desc lang="no">Fra 2004. House mistenker at en kvinne med schizofreni og livstruende blodpropper lyver om drikkingen sin, og sender teamet av gårde for å undersøke saken.(n)</desc>
+  </programme>
+  <programme start="20250904111500 +0200" stop="20250904114500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Couples Therapy</title>
+    <desc lang="no">Fra 2019. Langt fra karakteristiske reality-show, må fire par gå gjennom en autentisk og følelsesfylt opplevelse med ukentlig terapi.(n)</desc>
+  </programme>
+  <programme start="20250904114500 +0200" stop="20250904134500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Tilbake til fremtiden 3</title>
+    <desc lang="no">Fra 1990. Marty McFly og Doc Brown reiser tilbake til Det ville vesten i denne avsluttende delen av den populære tidsreisetrilogien.(n)</desc>
+  </programme>
+  <programme start="20250904134500 +0200" stop="20250904143000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Monk</title>
+    <desc lang="no">Fra 2004. Når en berømt plateprodusent blir funnet død i panikkrommet sitt, må Monk bistå med å finne ut om en usannsynlig mistenkt er skyldig eller ei.(n)</desc>
+  </programme>
+  <programme start="20250904143000 +0200" stop="20250904151500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Monk</title>
+    <desc lang="no">Fra 2004. Når en rekke uforklarlige strømbrudd truer byen, er det opp til Monk å finne årsaken.(n)</desc>
+  </programme>
+  <programme start="20250904151500 +0200" stop="20250904171500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Everest</title>
+    <desc lang="no">Fra 2015. Fjellklatringsekspertene Rob Hall og Scott Fisher leder konkurrerende ekspedisjoner i et forsøk på å ta seg til topps på verdens høyeste fell.(n)</desc>
+  </programme>
+  <programme start="20250904171500 +0200" stop="20250904205000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Midt i siktet</title>
+    <desc lang="no">Fra 1990. Når en omplassert FBI-informant som skjuler seg med falsk identitet plutselig blir gjenforent med sin tidligere elsker, må de begge to på rømmen.(n)</desc>
+  </programme>
+  <programme start="20250904205000 +0200" stop="20250904215000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Ray Donovan</title>
+    <desc lang="no">Fra 2013. Ray og Avi finner Eddie på rømmen med Sullys penger. Senere går Ray ut med at Amerikas mest ettersøkte har blitt sett i Santa Monica.(n)</desc>
+  </programme>
+  <programme start="20250904215000 +0200" stop="20250904223500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">House</title>
+    <desc lang="no">Fra 2004. En nonne som oppsøker klinikken med hovne armer, utslett og blødninger i håndflatene, får teamet til å stille spørsmål om sine egne liv.(n)</desc>
+  </programme>
+  <programme start="20250904223500 +0200" stop="20250904232000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">House</title>
+    <desc lang="no">Fra 2004. House mistenker at en kvinne med schizofreni og livstruende blodpropper lyver om drikkingen sin, og sender teamet av gårde for å undersøke saken.(n)</desc>
+  </programme>
+  <programme start="20250904232000 +0200" stop="20250905001000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Hackerville</title>
+    <desc lang="no">Fra 2018. Fast bestemt på å redde Cipi fra seg selv, forlenger Lisa oppholdet. Cipi står overfor en smertefull sannhet.(n)</desc>
+  </programme>
+  <programme start="20250905001000 +0200" stop="20250905015500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Born to Be Blue</title>
+    <desc lang="no">Fra 2015. På 1950-tallet var Chet Baker en av verdens mest kjente trompetister, kjent både som en pioner innen vestkystjazzen og et ikon for det kule.(n)</desc>
+  </programme>
+  <programme start="20250905015500 +0200" stop="20250905040000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Drømmenes verden</title>
+    <desc lang="no">Fra 1998. En mann prøver å finne sin kone i livet etter døden slik at de kan dele evigheten sammen.(n)</desc>
+  </programme>
+  <programme start="20250905040000 +0200" stop="20250905044500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">House</title>
+    <desc lang="no">Fra 2004. To save a young woman who falls ill to a disease she can't possibly have, the team must acknowledge that House is right: Everybody lies.(n)</desc>
+  </programme>
+  <programme start="20250905044500 +0200" stop="20250905053000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">House</title>
+    <desc lang="no">Fra 2005. House og teamet hans undersøker en skoleelev som har blitt forgiftet på mystisk vis.(n)</desc>
+  </programme>
+  <programme start="20250905053000 +0200" stop="20250905055500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Henry Danger</title>
+    <desc lang="no">Fra 2018. Når minnene til Ray plutselig blir borte, lager Schoz en plan for å sende Henry inn i hjernen til Ray for å finne dem.(n)</desc>
+  </programme>
+  <programme start="20250905055500 +0200" stop="20250905062000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Henry Danger</title>
+    <desc lang="no">Fra 2018. Captain Man oppfører seg som en baby uten skulle ha en baby. Fødselssmerter gjør ham hjelpeløs.(n)</desc>
+  </programme>
+  <programme start="20250905062000 +0200" stop="20250905064500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Henry Danger</title>
+    <desc lang="no">Fra 2018. Captain Man og Kid Danger får hjelp fra en tryllekunstner til å fange en tyv.(n)</desc>
+  </programme>
+  <programme start="20250905064500 +0200" stop="20250905083000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Dragetreneren 2</title>
+    <desc lang="no">Fra 2014. Drager og vikinger har endelig begravd stridsøksa, men når kjeltringen Drago planlegger et massivt angrep, må Hikken og Tannlaus trå til.(n)</desc>
+  </programme>
+  <programme start="20250905083000 +0200" stop="20250905091500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Monk</title>
+    <desc lang="no">Fra 2004. Når en berømt plateprodusent blir funnet død i panikkrommet sitt, må Monk bistå med å finne ut om en usannsynlig mistenkt er skyldig eller ei.(n)</desc>
+  </programme>
+  <programme start="20250905091500 +0200" stop="20250905100000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Monk</title>
+    <desc lang="no">Fra 2004. Når en rekke uforklarlige strømbrudd truer byen, er det opp til Monk å finne årsaken.(n)</desc>
+  </programme>
+  <programme start="20250905100000 +0200" stop="20250905104500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">House</title>
+    <desc lang="no">Fra 2004. To save a young woman who falls ill to a disease she can't possibly have, the team must acknowledge that House is right: Everybody lies.(n)</desc>
+  </programme>
+  <programme start="20250905104500 +0200" stop="20250905113000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">House</title>
+    <desc lang="no">Fra 2005. House og teamet hans undersøker en skoleelev som har blitt forgiftet på mystisk vis.(n)</desc>
+  </programme>
+  <programme start="20250905113000 +0200" stop="20250905133000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Everest</title>
+    <desc lang="no">Fra 2015. Fjellklatringsekspertene Rob Hall og Scott Fisher leder konkurrerende ekspedisjoner i et forsøk på å ta seg til topps på verdens høyeste fell.(n)</desc>
+  </programme>
+  <programme start="20250905133000 +0200" stop="20250905135000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">MTV Cribs</title>
+    <desc lang="no">Fra 2023. Debbie Mazar viser oss rundt i sin toscanske villa fra 1400-tallet, og vi får se Eddie Huang kule bolig i LA.(n)</desc>
+  </programme>
+  <programme start="20250905135000 +0200" stop="20250905143500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Monk</title>
+    <desc lang="no">Fra 2004. Monk must find the evidence to put away a grisly murderer and regain his detective's license from the grouchy new police commissioner.(n)</desc>
+  </programme>
+  <programme start="20250905143500 +0200" stop="20250905152000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Monk</title>
+    <desc lang="no">Fra 2004. Monk infiltrates an organized crime family as he tries to get to the bottom of an apparent mob hit.(n)</desc>
+  </programme>
+  <programme start="20250905152000 +0200" stop="20250905171500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Drømmenes verden</title>
+    <desc lang="no">Fra 1998. En mann prøver å finne sin kone i livet etter døden slik at de kan dele evigheten sammen.(n)</desc>
+  </programme>
+  <programme start="20250905171500 +0200" stop="20250905190000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Hva som skjer senere</title>
+    <desc lang="no">Fra 2023. Willa og Bill er tidligere elskere som møtes for første gang på mange år da de begge blir snødd inne på en lufthavn over natten.(n)</desc>
+  </programme>
+  <programme start="20250905190000 +0200" stop="20250905205500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Identity Thief</title>
+    <desc lang="no">Fra 2013. En mann fra Denver sporer opp Florida-kvinnen som stjal identiteten hans, finansierte en luksuriøs livsstil og ødela kredittverdigheten hans.(n)</desc>
+  </programme>
+  <programme start="20250905205500 +0200" stop="20250905215500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Ray Donovan</title>
+    <desc lang="no">Fra 2014. Akkurat i det Rays liv begynner å komme tilbake til normalen, får sjefen for L.A-politiet vite at Ray og Mickey var innblandet i drapet på Sully.(n)</desc>
+  </programme>
+  <programme start="20250905215500 +0200" stop="20250905224000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">House</title>
+    <desc lang="no">Fra 2004. To save a young woman who falls ill to a disease she can't possibly have, the team must acknowledge that House is right: Everybody lies.(n)</desc>
+  </programme>
+  <programme start="20250905224000 +0200" stop="20250905232500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">House</title>
+    <desc lang="no">Fra 2005. House og teamet hans undersøker en skoleelev som har blitt forgiftet på mystisk vis.(n)</desc>
+  </programme>
+  <programme start="20250905232500 +0200" stop="20250906001500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Hackerville</title>
+    <desc lang="no">Fra 2018. Som flyktninger fra Borisov, må Lisa, Adam og Cipi koble seg fra samfunnet og gjemme seg.(n)</desc>
+  </programme>
+  <programme start="20250906001500 +0200" stop="20250906020500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Midt i siktet</title>
+    <desc lang="no">Fra 1990. Når en omplassert FBI-informant som skjuler seg med falsk identitet plutselig blir gjenforent med sin tidligere elsker, må de begge to på rømmen.(n)</desc>
+  </programme>
+  <programme start="20250906020500 +0200" stop="20250906040000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">The Truth About Charlie</title>
+    <desc lang="no">Fra 2002. En ung kvinne i Paris er i ferd med å skille seg fra mannen i det hun oppdager at han har gått bort og at alle pengene deres er borte.(n)</desc>
+  </programme>
+  <programme start="20250906040000 +0200" stop="20250906053000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Otto Baxter: Not A F**king Horror Story</title>
+    <desc lang="no">Fra 2023. Otto Baxter, en filmskaper med Downs syndrom, lager en selvbiografisk skrekkfilm.(n)</desc>
+  </programme>
+  <programme start="20250906053000 +0200" stop="20250906072500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Drømmenes verden</title>
+    <desc lang="no">Fra 1998. En mann prøver å finne sin kone i livet etter døden slik at de kan dele evigheten sammen.(n)</desc>
+  </programme>
+  <programme start="20250906072500 +0200" stop="20250906093000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">EDtv</title>
+    <desc lang="no">Fra 1999. Ed, en videobutikkmedarbeider som føler at han ikke har noe å tape, samtykker i å være stjernen i et nytt reality–basert TV–program.(n)</desc>
+  </programme>
+  <programme start="20250906093000 +0200" stop="20250906110000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Head Over Heels</title>
+    <desc lang="no">Fra 2001. Amanda er uheldig når det kommer til menn. Alle hennes tidligere forhold har endt med brutte løfter og utroskap.(n)</desc>
+  </programme>
+  <programme start="20250906110000 +0200" stop="20250906112500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Couples Therapy</title>
+    <desc lang="no">Fra 2019. Denne kritikerroste dokumentarserien tar deg med på innsiden av Dr. Orna Guralniks samlivsklinikk. Ekte mennesker.(n)</desc>
+  </programme>
+  <programme start="20250906112500 +0200" stop="20250906125000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Bad Neighbours 2</title>
+    <desc lang="no">Fra 2016. Med et andre barn på vei er Mac og Kelly Radner klare for å ta det endelige skrittet inn i voksenverdenen og flytte til villaområdet.(n)</desc>
+  </programme>
+  <programme start="20250906125000 +0200" stop="20250906143500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Hva som skjer senere</title>
+    <desc lang="no">Fra 2023. Willa og Bill er tidligere elskere som møtes for første gang på mange år da de begge blir snødd inne på en lufthavn over natten.(n)</desc>
+  </programme>
+  <programme start="20250906143500 +0200" stop="20250906162000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">The Truth About Charlie</title>
+    <desc lang="no">Fra 2002. En ung kvinne i Paris er i ferd med å skille seg fra mannen i det hun oppdager at han har gått bort og at alle pengene deres er borte.(n)</desc>
+  </programme>
+  <programme start="20250906162000 +0200" stop="20250906165000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Knuckles</title>
+    <desc lang="no">Fra 2024. Knuckles og Wade flykter fra loven, og gjemmer seg hos Wades familie.(n)</desc>
+  </programme>
+  <programme start="20250906165000 +0200" stop="20250906171500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Knuckles</title>
+    <desc lang="no">Fra 2024. Wade prøver å lære mer om Knuckles virkelige styrke gjennom musikkens kraft.(n)</desc>
+  </programme>
+  <programme start="20250906171500 +0200" stop="20250906190000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Jay &amp; Silent Bob Reboot</title>
+    <desc lang="no">Fra 2019. Når Jay og Silent Bob oppdager at det lages en ny versjon av Bluntman &amp; Chronic, drar de til ChronicCon i Hollywood for å sette en stopper for det.(n)</desc>
+  </programme>
+  <programme start="20250906190000 +0200" stop="20250906195000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Hackerville</title>
+    <desc lang="no">Fra 2018. Fast bestemt på å redde Cipi fra seg selv, forlenger Lisa oppholdet. Cipi står overfor en smertefull sannhet.(n)</desc>
+  </programme>
+  <programme start="20250906195000 +0200" stop="20250906204000 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Hackerville</title>
+    <desc lang="no">Fra 2018. Som flyktninger fra Borisov, må Lisa, Adam og Cipi koble seg fra samfunnet og gjemme seg.(n)</desc>
+  </programme>
+  <programme start="20250906204000 +0200" stop="20250907004500 +0200" channel="SkyShowtime 2 HD (T)">
+    <title lang="no">Waterworld</title>
+    <desc lang="no">Fra 1995. En sjømann beskytter et barn mot sjørøvere, som tror at den rare tatoveringen hennes viser veien til land.(n)</desc>
+  </programme>
+</tv>
